@@ -1,5 +1,45 @@
- .hero{
-    max-width: 100%;
-    max-height: 75vh;
-    margin: auto;
+@font-face {
+   font-family: michigan;
+   src: url('media/michigan 3.ttf')
+}
+
+body {
+   display: flex;
+   flex-direction: column;
+   margin: auto;
+}
+
+.hero {
+   max-width: 90%;
+   max-height: 50vh;
+   margin: auto;
+}
+
+header {
+   padding: 20px;
+   color: #FFCB05;
+   background-color: #00274C;
+}
+ h1{
+   font-family: michigan;
+ }
+
+ main{
+   margin: auto;
+   display: flex;
+   flex-direction: column;
+ }
+
+ .about{
+   margin: auto;
+ }
+ 
+ h2{
+   margin: auto;
+   font-family: michigan;
+   text-align: center;
+ }
+
+ .about-p{
+   text-align: center;
  }
