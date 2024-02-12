@@ -43,3 +43,25 @@ header {
  .about-p{
    text-align: center;
  }
+
+ h4{
+   font-family: michigan;
+ }
+
+ .organization{
+   margin: auto;
+   padding: 20px;
+   display: flex;
+ }
+
+ .claim-h1{
+   margin: auto;
+ }
+
+ .organization>* {
+   margin: auto;
+ }
+
+ .who-section{
+   margin: auto;
+ }
