@@ -15,6 +15,10 @@ body {
    margin: auto;
 }
 
+.hero-policy{
+  max-height: 70vh;
+}
+
 header {
    padding: 20px;
    color: #FFCB05;
@@ -58,8 +62,10 @@ header {
    margin: auto;
  }
 
- .organization>* {
+ .organizations {
    margin: auto;
+   max-width: 80vw;
+   margin-bottom: 60px;
  }
 
  .who-section{
